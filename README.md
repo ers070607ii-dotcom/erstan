@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
@@ -107,7 +107,7 @@
   <div class="card" id="card">
     <div id="invite-content">
       <div class="heart">💖</div>
-      <h1>У меня есть идея...</h1>
+      <h1>Важная сообшение</h1>
       <p>любишь меня?</p>
       
       <div class="buttons">
